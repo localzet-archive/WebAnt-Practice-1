@@ -1,0 +1,20 @@
+{
+    "name": "localzet/webant-practice-1",
+    "description": "Практическое задание от WebAnt №1",
+    "type": "library",
+    "license": "AGPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Localzet\\WebantPractice1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Zorin",
+            "role": "Developer",
+            "email": "creator@localzet.com",
+            "homepage": "https://github.com/localzet"
+        }
+    ],
+    "require": {}
+}
